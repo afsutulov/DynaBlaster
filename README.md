@@ -7,11 +7,6 @@
 The 1992 MS-DOS version of **Dyna Blaster** (Bomberman, Hudson Soft) rebuilt in Go
 for today's computers: Windows, Linux and macOS on amd64 and arm64.
 
-The goal of this port is that nothing changes: the game logic, the graphics and
-the sound are the original ones, and a person playing it on a modern computer
-should not be able to tell it apart from the game running on a 486 with a VGA
-card and a Sound Blaster.
-
 <p align="center">
   <img src="screenshots/title.png" width="384" alt="Title screen">
   <img src="screenshots/stage1.png" width="384" alt="Stage 1-1">
