@@ -1,4 +1,4 @@
-<p align="center"><img src="cmd/dynablaster/icon/icon128.png" width="96" alt="иконка"></p>
+<p align="center"><img src="icon/icon128.png" width="96" alt="иконка"></p>
 
 # Dyna Blaster
 
